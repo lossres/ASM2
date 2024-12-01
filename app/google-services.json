@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491570404496",
+    "project_id": "anroi-ad8eb",
+    "storage_bucket": "anroi-ad8eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491570404496:android:a34f46cb48fd2914434c15",
+        "android_client_info": {
+          "package_name": "com.example.lab1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt3wjkgfkRn4YFvk_nJR4f6js1dnEGGdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
